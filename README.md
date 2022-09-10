@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&&color=auto&height=300&section=header&text=Welcome%20&fontSize=50&fontAlign=40&desc=dongHyeun%20Kim's%20GitHub%20profile!&descAlign=60&descSize=30" />
 
 ## About Me
+---
+
+<center> hi</center>
 
 <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=blue&logoColor=blue"/>
 
