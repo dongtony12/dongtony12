@@ -1,6 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-
-### Hi there 👋
+## About Me
 
 <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=blue&logoColor=blue"/>
 
