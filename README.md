@@ -6,7 +6,7 @@
   <h3>안녕하세요 프론트엔드 개발자 김동현 입니다.</h3>
 </div>
 -  저는 항상 성장하려 노력하며 그 과정을 즐거워 합니다.<br/>
--  단순히 문제해결을 위한 기술공부가 아닌 본질에 대해 탐구하려 노력합니다.<br/>
+-  유저의 불편함을 어떻게 해소할 수 있을지 항상 고민합니다.<br/>
 
 <br/>
 <br/>
@@ -25,7 +25,7 @@
   <h3>Hello I'm FrontEnd Developer DongHyeun Kim</h3>
 </div>
 -  I'm always try to grow up and enjoy the process<br/>
--  I try to explore the essence of the problem, not just studying technology to solve it.<br/>
+-  I always think about how to relieve the inconvenience of users.<br/>
 
 <br/>
 <br/>
