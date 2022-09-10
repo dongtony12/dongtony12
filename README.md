@@ -2,8 +2,7 @@
 
 ## About Me
 ---
-
-<center> hi</center>
+<div align="center">Hi I'm FrontEnd Developer Donghyeun Kim</div>
 
 <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=blue&logoColor=blue"/>
 
