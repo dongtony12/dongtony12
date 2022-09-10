@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&&color=auto&height=300&section=header&text=Welcome%20&fontSize=50&fontAlign=40&desc=dongHyeun%20Kim's%20GitHub%20profile!&descAlign=60&descSize=30" />
 
 ## About Me
-<div align="center">Hi I'm FrontEnd Developer Donghyeun Kim</div>
+<div align="center">**Hi I'm FrontEnd Developer Donghyeun Kim**</div>
 
 <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=blue&logoColor=blue"/>
 
