@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&&color=0:EEFF00,100:a82da8&height=200&section=header&text=Welcome%20&fontSize=60&desc=dongHyeun%20Kim's%20GitHub%20profile!&descAlign=100" />
+<img src="https://capsule-render.vercel.app/api?type=soft&&color=auto&height=200&section=header&text=Welcome%20&fontSize=60&desc=dongHyeun%20Kim's%20GitHub%20profile!&descAlign=60" />
 
 ## About Me
 
