@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&&color=auto&height=200&section=header&text=Welcome%20&fontSize=60&desc=dongHyeun%20Kim's%20GitHub%20profile!&descAlign=60" />
-
+<img src="https://capsule-render.vercel.app/api?type=soft&&color=auto&height=200&section=header&text=Welcome%20&fontSize=60" />
+![footer](https://capsule-render.vercel.app/api?section=footer&desc=dongHyeun%20Kim's%20GitHub%20profile!&descAlign=60)
 ## About Me
 
 <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=blue&logoColor=blue"/>
