@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&&color=auto&height=300&section=header&text=Welcome%20&fontSize=50&fontAlign=40&desc=dongHyeun%20Kim's%20GitHub%20profile!&descAlign=60&descSize=30" />
+<img src="https://user-images.githubusercontent.com/18694323/189477906-efed755e-016e-46a0-bf17-25521e36ee30.jpeg" width="700" height="300"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&&color=auto&height=200&section=header&text=Welcome%20&fontSize=30&fontAlign=40&desc=dongHyeun%20Kim's%20GitHub%20profile!&descAlign=60&descSize=10" />
+
 
 # 소개
 
