@@ -52,14 +52,3 @@
 
 ## 🌱Devops🌱
 <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/githubActions-2088FF?style=plastic&logo=githubActions&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=plastic&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white"/>
-
-
-<br/>
-
-## Github Stats
-
-![dongtony12's github stats](https://github-readme-stats.vercel.app/api?username=dongtony12&show_icons=true)
-[![dongtony12's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dongtony12&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dongtony12)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dongtony12&row=1)](https://github.com/ryo-ma/github-profile-trophy)
