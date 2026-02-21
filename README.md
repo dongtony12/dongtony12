@@ -11,6 +11,9 @@
 -  유저의 불편함을 어떻게 해소할 수 있을지 항상 고민합니다.<br/>
 
 <br/>
+
+🤖 **[Ask DongHyun](https://ask-donghyun-chatbot.vercel.app)** - 저에 대해 궁금한 점을 AI 챗봇에게 물어보세요!
+
 <br/>
 
 📫 자유롭게 연락 주세요<br/>
@@ -30,6 +33,9 @@
 -  I always think about how to relieve the inconvenience of users.<br/>
 
 <br/>
+
+🤖 **[Ask DongHyun](https://ask-donghyun-chatbot.vercel.app)** - Ask my AI chatbot anything about me!
+
 <br/>
 
 📫 Contact Me<br/>
